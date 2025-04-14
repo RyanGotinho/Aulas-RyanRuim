@@ -1,5 +1,5 @@
-let produtos = 'celular, notebook, tv, tablet, headset'
-let listaproduto = produtos.split(',')
-for(let produtos of listaproduto){
-    console.log(produtos)
-}
+let listanome = ['vitor', 'pietro', 'jonas','verdugo', 'isacci']
+   
+    for(let nome of listanome){
+        console.log(nome)
+    }
