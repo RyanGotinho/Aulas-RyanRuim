@@ -9,4 +9,4 @@ for(let[posicao, carro] of listaCarros.entries()){
     
 }
 
-// VARIAVEL+.POP APAGA O ULTIMO ITEM DA LISTA
+// VARIAVEL+.POP APAGA O ULTIMO ITEM DA LISTA 
