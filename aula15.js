@@ -1,7 +1,5 @@
 const prompt = require('prompt-sync')();
 
-
-
 // CRIANDO NOSSA PRIMEIRA FUNÇÃO
 function Cabecalho(texto){
     console.log('---------------------');
